@@ -1,0 +1,12 @@
+br\com\javamagazine\jee\crud\cliente\entity\ClienteTelefone.class
+br\com\javamagazine\jee\crud\cliente\exception\ClienteExistenteException.class
+br\com\javamagazine\jee\crud\common\web\UtilsMB.class
+br\com\javamagazine\jee\crud\cliente\exception\NenhumTelefoneInformadoException.class
+br\com\javamagazine\jee\crud\cliente\entity\Cliente.class
+br\com\javamagazine\jee\crud\cliente\dao\ClienteDao.class
+br\com\javamagazine\jee\crud\cliente\entity\filter\ClienteFilter.class
+br\com\javamagazine\jee\crud\common\validation\Email.class
+br\com\javamagazine\jee\crud\cliente\services\ClienteServices.class
+br\com\javamagazine\jee\crud\cliente\web\mb\ClienteMB.class
+br\com\javamagazine\jee\crud\common\validation\EmailValidator.class
+br\com\javamagazine\jee\crud\cliente\services\impl\ClienteServicesImpl.class

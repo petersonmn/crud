@@ -1,0 +1,12 @@
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\cliente\exception\NenhumTelefoneInformadoException.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\cliente\web\mb\ClienteMB.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\cliente\entity\Cliente.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\cliente\exception\ClienteExistenteException.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\common\validation\EmailValidator.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\cliente\entity\filter\ClienteFilter.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\cliente\dao\ClienteDao.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\cliente\services\ClienteServices.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\common\web\UtilsMB.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\common\validation\Email.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\cliente\services\impl\ClienteServicesImpl.java
+C:\ED\workspace\crud2\src\main\java\br\com\javamagazine\jee\crud\cliente\entity\ClienteTelefone.java
